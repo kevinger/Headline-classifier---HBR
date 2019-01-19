@@ -1,3 +1,20 @@
+#Untracked files
+#Starter data
+headlines.csv
+all_tweets_fb_2013-nov18.csv
+
+#Cleaned data
+clean_headlines.csv
+combined_headlines.csv
+combined_biz_headlines.csv
+other_headlines.csv
+other_biz_headlines.csv
+
+#Saved pipelines
+hbr_pipeline.pkl
+hbr_biz_pipeline.pkl
+hbr_logit.pkl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
