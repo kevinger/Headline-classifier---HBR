@@ -1,4 +1,4 @@
-#Classifying headlines to separate HBR articles from news
+# Classifying headlines to separate HBR articles from news
 
 ### Requires headline and social media csv's to work.
 
